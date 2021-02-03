@@ -63,3 +63,6 @@ Enterでブロックを生成します。
 タイトルバー右のリストボタンをクリックすると本文のリストが表示されます。
 
 
+
+問い合わせや要望はこちら
+https://marshmallow-qa.com/dicebookweb?utm_medium=url_text&utm_source=promotion
