@@ -64,5 +64,5 @@ Enterでブロックを生成します。
 
 
 
-問い合わせや要望は[こちら](
+問い合わせや要望はissueか[こちら]へ(
 https://marshmallow-qa.com/dicebookweb?utm_medium=url_text&utm_source=promotion)
